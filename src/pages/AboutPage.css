@@ -6,7 +6,7 @@
 
 .about-container h1 {
   text-align: center;
-  color: #2d3748;
+  color: #eef2f8;
   margin-bottom: 3rem;
   font-size: 2.5rem;
 }
@@ -16,7 +16,7 @@
 }
 
 .about-container h2 {
-  color: #2d3748;
+  color: #090906;
   margin-bottom: 1.5rem;
   font-size: 2rem;
 }
@@ -24,7 +24,7 @@
 .about-intro p {
   font-size: 1.1rem;
   line-height: 1.8;
-  color: #4a5568;
+  color: #010814;
   max-width: 800px;
   margin: 0 auto;
 }

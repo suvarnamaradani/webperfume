@@ -6,7 +6,7 @@
 
 .contact-container h1 {
   text-align: center;
-  color: #2d3748;
+  color: #eaeff8;
   margin-bottom: 3rem;
   font-size: 2.5rem;
 }
@@ -19,13 +19,13 @@
 
 .contact-info h2,
 .contact-form h2 {
-  color: #2d3748;
+  color: #13150c;
   margin-bottom: 1.5rem;
   font-size: 1.8rem;
 }
 
 .contact-info > p {
-  color: #4a5568;
+  color: #0b101a;
   margin-bottom: 2rem;
   line-height: 1.6;
 }

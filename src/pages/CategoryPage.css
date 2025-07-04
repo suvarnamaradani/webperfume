@@ -1,6 +1,6 @@
 .category-page {
   min-height: 100vh;
-  background-color: #f8fafc;
+  background-color: #ab167c;
 }
 
 .category-hero {
@@ -12,7 +12,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  color: white;
+  color: rgb(243, 234, 234);
   padding: 2rem;
   margin-bottom: 3rem;
 }

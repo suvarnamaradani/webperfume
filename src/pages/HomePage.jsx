@@ -76,7 +76,7 @@ export default function HomePage() {
         }}
       >
         <div className="hero-content">
-          <h1>Welcome to Perfume Paradise</h1>
+          <h1 className="welcome-title">Welcome to Perfume Paradise</h1>
           <p>Discover your signature scent from our exclusive collection</p>
           <button onClick={() => navigate('/collections')} className="cta-button">
             Explore Collections
@@ -114,7 +114,7 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="categories">
+      <section className="shop-category">
         <h2>Shop by Category</h2>
         <div className="category-grid">
           <div className="category-card" onClick={() => navigate('/category/floral')}>
